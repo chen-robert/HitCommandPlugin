@@ -1,0 +1,6 @@
+#HitCommand v1.0 developed by crepppy (http://github.com/crepppy // twitter.com/creppppy)
+
+#Prefix a command with p: if you want the command to be executed by the attacker
+#Add %attacker% or %victim% in the command in place of the player's name
+#If you are unsure of the format, add a weapon in game using /hitcommand (this requires the hitcommand.addweapon permission)
+#CrackShot weapons only require the type to be the name of the CrackShot weapon (other fields such as displayname or lore aren't required)

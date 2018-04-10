@@ -1,0 +1,10 @@
+main: me.crepppy.hitcommand.HitCommand
+name: HitCommand
+author: crepppy
+version: 1.0
+depend: [CrackShot]
+
+commands:
+    hitcommand:
+        usage: /hitcommand <Command> <Chance> <DeathChance>
+        description: Add a new weapon to the hit command config.
